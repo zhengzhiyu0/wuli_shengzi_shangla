@@ -1,0 +1,1 @@
+cocos creator 物理模拟绳子上拉
